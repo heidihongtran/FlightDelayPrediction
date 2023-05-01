@@ -1,5 +1,4 @@
 # Flight Delay Prediction
-This is a group work in my post-graduate program.
 
 Project requirements: 
 
